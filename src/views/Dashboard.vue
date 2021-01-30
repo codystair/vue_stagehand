@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3 class="text-gray-700 text-3xl font-medium">Dashboard</h3>
+    <h3 class="text-gray-700 text-3xl font-medium">Dashboard Feature 1</h3>
 
     <div class="mt-4">
       <div class="flex flex-wrap -mx-6">
